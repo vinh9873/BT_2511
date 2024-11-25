@@ -8,7 +8,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 
 import vn.ute.entity.UserInfo;
-import vn.ute.respository.UserInfoRepository;
+import vn.ute.repository.UserInfoRepository;
 import vn.ute.restcontroller.UserInfoUserDetails;
 
 public class UserInfoService implements UserDetailsService {

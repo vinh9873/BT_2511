@@ -1,4 +1,4 @@
-package vn.ute.respository;
+package vn.ute.repository;
 
 import java.util.Optional;
 
